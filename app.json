@@ -1,7 +1,7 @@
 {
   "expo": {
     "name": "password-generator-app",
-    "slug": "password-generator-app",
+    "slug": "Password Generator",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
